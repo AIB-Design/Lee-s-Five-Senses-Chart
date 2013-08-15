@@ -6,20 +6,29 @@ THE FIRST SET IS TO REFLECT HOW MUCH THE SENSES PLAY INTO THE DESIGN AS THE OBJE
 THE SECOND SET OF DATA REFLECTS HOW THE WHOLE INTERACTION EXPERIENCE CHANGES ONCE MORE SENSES ARE TAPPED INTO BY DESIGNING THE OBJECT/EXPIERENCE TO PURPOSEFULLY TAKE ADVANTAGE OF ADDITIONAL SENSES 
 */
 
+
+
+
+
+
+
 /***** SENSE LEVELS IN ORIGINAL FORM *****/
 var smell1 	= 	0; //SMELL
 var taste1 	= 	4; //TASTE
 var touch1 	= 	0; //TOUCH
 var hearing1 = 	3; //HEARING
-var sight1 = 	9; //SIGHT
+var sight1 = 	  9; //SIGHT
 
 
 /***** SENSE LEVELS WITH RE-DESIGN TO ALLOW MORE ACCESS TO SENSES *****/
-var smell2 = 	8; //SMELL
-var taste2 = 	4; //TASTE
-var touch2 = 	3; //TOUCH
+var smell2 = 	  8; //SMELL
+var taste2 = 	  4; //TASTE
+var touch2 = 	  3; //TOUCH
 var hearing2 = 	3; //HEARING
-var sight2 = 	9; //SIGHT
+var sight2 = 	  9; //SIGHT
+
+
+
 
 
 
